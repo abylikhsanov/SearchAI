@@ -2449,19 +2449,19 @@
     ]
   },
   "packageFolders": {
-    "/home/abyl/.nuget/packages/": {}
+    "/Users/abylikhsanov/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/abyl/RiderProjects/SearchAI/SearchAI/SearchAI.csproj",
+      "projectUniqueName": "/Users/abylikhsanov/Documents/SearchAI/SearchAI/SearchAI.csproj",
       "projectName": "SearchAI",
-      "projectPath": "/home/abyl/RiderProjects/SearchAI/SearchAI/SearchAI.csproj",
-      "packagesPath": "/home/abyl/.nuget/packages/",
-      "outputPath": "/home/abyl/RiderProjects/SearchAI/SearchAI/obj/",
+      "projectPath": "/Users/abylikhsanov/Documents/SearchAI/SearchAI/SearchAI.csproj",
+      "packagesPath": "/Users/abylikhsanov/.nuget/packages/",
+      "outputPath": "/Users/abylikhsanov/Documents/SearchAI/SearchAI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/abyl/.nuget/NuGet/NuGet.Config"
+        "/Users/abylikhsanov/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -2553,7 +2553,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
